@@ -1,1 +1,6 @@
-
+good morning 
+good noon
+good afternoon
+good evening
+good night
+end.
