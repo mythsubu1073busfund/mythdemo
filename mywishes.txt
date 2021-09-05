@@ -2,8 +2,5 @@ good morning
 good noon
 good afternoon
 good evening
-
-good evening
-godd noon
 good night
 end.
